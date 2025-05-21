@@ -1,7 +1,9 @@
 # NSDC Transportation Data Science Project (TDSP)
-This repository contains my code for the NSDC Transportation Data Science Project (TDSP) organized by the Northeast Big Data Innovation Hub.
+
+This repository contains my code for the NSDC Transportation Data Science Project (TDSP) organized by the Northeast Big Data Innovation Hub, which I completed in January 2025.
 
 During the course of this project, I completed six milestones:
+
 1. Data Preparation
 2. Data Ethics, Pre-Processing, and Exploration
 3. Time Series Analysis
